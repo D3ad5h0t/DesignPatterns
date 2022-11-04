@@ -1,0 +1,15 @@
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.exe
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.deps.json
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.runtimeconfig.json
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.dll
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.pdb
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.csproj.AssemblyReference.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.AssemblyInfoInputs.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.AssemblyInfo.cs
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.dll
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\refint\SOLID.OCP.dll
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.pdb
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.genruntimeconfig.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.OCP\obj\Debug\net6.0\ref\SOLID.OCP.dll
