@@ -1,4 +1,4 @@
-﻿using SOLIDSRP;
+﻿using SOLID.SRP;
 
 var journal = new Journal();
 journal.AddEntry("I cried today.");
