@@ -1,0 +1,15 @@
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.exe
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.deps.json
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.runtimeconfig.json
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.dll
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.pdb
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.csproj.AssemblyReference.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.AssemblyInfoInputs.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.AssemblyInfo.cs
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.dll
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\refint\SOLID.LSP.dll
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.pdb
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.genruntimeconfig.cache
+C:\Users\alexg\Documents\SandBox\DesignPatterns\DesignPatterns\SOLID.LSP\obj\Debug\net6.0\ref\SOLID.LSP.dll
