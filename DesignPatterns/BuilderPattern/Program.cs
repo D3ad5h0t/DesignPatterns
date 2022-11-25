@@ -1,12 +1,13 @@
 ﻿using System.Threading.Channels;
-using BuilderPattern;
+using BuilderPattern.Models;
 
-var words = new[] { "hello", "world" };
-var builder = new HtmlBuilder("ul");
+// var builder = HtmlElement.Create("ul");
+// builder.AddChild("li", "hello");
+//
+// var element = builder.Build();
 
-foreach (var word in words)
-{
-    builder.AddChild("li", word);
-}
+var element = HtmlElement.Create("ul")
+    .AddChild("li", "hello")
+    .AddChild("li", "world");
 
-Console.WriteLine(builder.ToString());
+Console.WriteLine(element);

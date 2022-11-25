@@ -14,10 +14,11 @@ public class HtmlBuilder
         Root.Name = _rootName;
     }
 
-    public void AddChild(string childName, string childText)
+    public HtmlBuilder AddChild(string childName, string childText)
     {
         var element = new HtmlElement(childName, childText);
         Root.Elements.Add(element);
+        return this;
     }
 
     public override string ToString()
@@ -31,4 +32,9 @@ public class HtmlBuilder
     }
 
     public HtmlElement Build() => Root;
+
+    public static implicit operator HtmlElement(HtmlBuilder builder)
+    {
+        return builder.Root;
+    }
 }

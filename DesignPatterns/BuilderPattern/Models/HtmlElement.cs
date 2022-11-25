@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Collections.Generic;
+using System.Text;
 
 namespace BuilderPattern.Models;
 
@@ -50,4 +51,6 @@ public class HtmlElement
 
         return builder.ToString();
     }
+
+    public static HtmlBuilder Create(string name) => new HtmlBuilder(name);
 }

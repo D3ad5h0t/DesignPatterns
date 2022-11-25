@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.DIP", "SOLID.DIP\SOLI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{D300B4AF-E667-4E02-A937-F0E522418308}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultifacetedBuilder", "MultifacetedBuilder\MultifacetedBuilder.csproj", "{B530C842-679E-4CB6-8BAD-DDF0959A982B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{D300B4AF-E667-4E02-A937-F0E522418308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D300B4AF-E667-4E02-A937-F0E522418308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D300B4AF-E667-4E02-A937-F0E522418308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B530C842-679E-4CB6-8BAD-DDF0959A982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B530C842-679E-4CB6-8BAD-DDF0959A982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B530C842-679E-4CB6-8BAD-DDF0959A982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B530C842-679E-4CB6-8BAD-DDF0959A982B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
